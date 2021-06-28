@@ -1,0 +1,75 @@
+.topbar
+{ 
+   width:100%;
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 2px 4px 2px rgba(17, 16, 16, 0.5);
+  padding: 15px 0;
+  min-height: 8vh;
+  margin-top: -10vh !important;
+  position: fixed;
+  z-index: 50;
+  background-color: #fff;
+}
+.head1
+{
+  color:teal;
+  letter-spacing:1px;
+
+}
+.head2{
+  color:black;
+  font-size:30px;
+  letter-spacing:1px;
+}
+.aitems
+{
+
+display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    width: 30%;
+    padding-top: 8px
+
+}
+.item
+{
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(27, 25, 25);
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+.item:hover
+{
+  color:teal;
+}
+.icons
+{
+  display: flex;
+  color: rgb(27, 25, 25);
+}
+
+.icon
+{
+  padding-top: 8px;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.cardcount
+{
+  color: #fff;
+    background-color: #009688;
+    border-radius: 50%;
+    font-size: 14px;
+    padding: 4px 7px;
+    position: absolute;
+    top: 0;
+
+}
+.text
+{
+  text-decoration : none;
+}
