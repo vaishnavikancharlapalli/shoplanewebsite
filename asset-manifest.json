@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shoplanewebsite/static/css/main.b09bb238.chunk.css",
-    "main.js": "/shoplanewebsite/static/js/main.f562a77c.chunk.js",
-    "main.js.map": "/shoplanewebsite/static/js/main.f562a77c.chunk.js.map",
+    "main.js": "/shoplanewebsite/static/js/main.b34c6d1b.chunk.js",
+    "main.js.map": "/shoplanewebsite/static/js/main.b34c6d1b.chunk.js.map",
     "runtime-main.js": "/shoplanewebsite/static/js/runtime-main.60607188.js",
     "runtime-main.js.map": "/shoplanewebsite/static/js/runtime-main.60607188.js.map",
     "static/css/2.55638410.chunk.css": "/shoplanewebsite/static/css/2.55638410.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.55638410.chunk.css",
     "static/js/2.9b18cdba.chunk.js",
     "static/css/main.b09bb238.chunk.css",
-    "static/js/main.f562a77c.chunk.js"
+    "static/js/main.b34c6d1b.chunk.js"
   ]
 }
